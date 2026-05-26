@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Earl Abule
+# 👋 Hi, I’m Earll Abule
 
 I’m a Computer Science graduate majoring in Data Science from the University of Southeastern Philippines. I’m interested in **Data Science, Cloud Computing, Software Quality Assurance, Automation, and Web Development**.
 
